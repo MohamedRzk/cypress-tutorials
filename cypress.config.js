@@ -6,14 +6,14 @@ module.exports = defineConfig({
 
     //viewportHeight : 750 ,
     //viewportWidth : 550 ,
-
+    projectId : "sg18mx",
     //baseUrl : 'https://www.google.com.eg/webhp?tab=rw' ,
 
-    /*
-    //setupNodeEvents(on, config) {
+    
+    setupNodeEvents(on, config) {
       // implement node event listeners here
-   // },
-   */
+    },
+   
 
   },
 });
