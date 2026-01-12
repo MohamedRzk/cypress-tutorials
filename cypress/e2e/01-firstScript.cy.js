@@ -33,3 +33,4 @@ describe("Add To Cart", () => {
         cy.log("check that user can checkout his cart to payment process");
     })
 })
+// first commit
